@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "name": "Hyundai i20",
+      "brand": "Hyundai",
+      "fuelType": "Petrol",
+      "seats": 5,
+      "price": 800000,
+      "image": "https://dmassets.hyundai.com/is/image/hyundaiautoever/hyundai-new-i20-attracts-with-elegant-and-sporty-design-01:Image%20Video%20Collection%20Layer%20Item%20Desktop?wid=884&hei=497"
+    },
+    {
+      "id": 2,
+      "name": "Maruti Swift",
+      "brand": "Maruti",
+      "fuelType": "Petrol",
+      "seats": 5,
+      "price": 700000,
+      "image": "https://www.autovista.in/assets/img/new_cars_colour_variants/swift-colour-solid-fire-red.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tata Nexon",
+      "brand": "Tata",
+      "fuelType": "Diesel",
+      "seats": 5,
+      "price": 950000,
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon/9675/1743060431849/front-left-side-47.jpg?imwidth=890&impolicy=resize"
+    },
+    {
+      "id": 4,
+      "name": "Honda Amaze",
+      "brand": "Honda",
+      "fuelType": "Petrol",
+      "seats": 5,
+      "price": 850000,
+      "image": "https://stimg.cardekho.com/images/car-images/930x620/Honda/Amaze/12185/1733310507376/223_Golden-Brown-Metallic_564f4b.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mahindra Thar",
+      "brand": "Mahindra",
+      "fuelType": "Diesel",
+      "seats": 4,
+      "price": 1450000,
+      "image": "https://i.pinimg.com/736x/41/65/ba/4165baadad75c1d4c1c08f0096957ee3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kia Seltos",
+      "brand": "Kia",
+      "fuelType": "Petrol",
+      "seats": 5,
+      "price": 1200000,
+      "image": "https://www.v3cars.com/media/model-imgs/1689942064-kia-seltos-exterior.webp"
+    },
+    {
+      "id": 7,
+      "name": "MG Hector",
+      "brand": "MG",
+      "fuelType": "Diesel",
+      "seats": 5,
+      "price": 1700000,
+      "image": "https://stimg.cardekho.com/images/car-images/930x620/MG/Hector/11869/1721899753278/223_AURORA-SILVER_767780.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Toyota Fortuner",
+      "brand": "Toyota",
+      "fuelType": "Diesel",
+      "seats": 7,
+      "price": 3200000,
+      "image": "https://i.pinimg.com/736x/7d/45/74/7d4574918ec8462fcefa23415f9cc273.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Skoda Kushaq",
+      "brand": "Skoda",
+      "fuelType": "Petrol",
+      "seats": 5,
+      "price": 1150000,
+      "image": "https://cdn.skoda-storyboard.com/2021/03/16_SKODA_KUSHAQ_WP.jpg#?s_aid=cwxwrkde-knsz-atey-uj2k-6rqzz0xkix63_004_1"
+    }
+ 
+  ]
+  
