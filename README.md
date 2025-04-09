@@ -1,12 +1,36 @@
-# React + Vite
+# 🚗 Car Finder App - Brand Kiln Front-End Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive React.js application that allows users to search, filter, and wishlist cars based on their preferences.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
 
-## Expanding the ESLint configuration
+- 🔎 Filter cars by **brand**, **fuel type**, **seating capacity**, and **price range**
+- ❤️ Add or remove cars to/from **wishlist**
+- 🌙 Toggle between **light mode** and **dark mode**
+- 💾 Wishlist saved in **LocalStorage**
+- 🎯 Real-time UI updates with every filter or action
+- 💻 Responsive layout with **Tailwind CSS**
+- 🎞️ Entry animations with **GSAP**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Tech Stack
+
+- **React.js (Vite)**
+- **Tailwind CSS**
+- **GSAP**
+- **LocalStorage**
+- **Mock API (cars.json)**
+
+---
+
+## 🚀 Getting Started
+
+### 🛠 Local Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sonia-Khatun/brand-kiln-car-app.git
+   cd brand-kiln-car-app
